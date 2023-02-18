@@ -1,7 +1,7 @@
 package Homework;
 
 public class HomeworkTwoPartTwo {
-    public static void main(String[] aargs){
+    public static void main(String[] args){
 
         int n = 365;
         int n1 = n / 10;
